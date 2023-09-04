@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    
+}
+
+.list {
+    border: 2px solid white;
+    padding: 30px;
+    list-style: none;
+}
+
+.list_item {
+    font-size: 20px;
+}
